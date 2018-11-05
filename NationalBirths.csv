@@ -1,0 +1,32 @@
+Year,M_Births,F_Births
+1995,1996355,1903234
+1996,1990480,1901014
+1997,1985596,1895298
+1998,2016205,1925348
+1999,2026854,1932563
+2000,2076969,1981845
+2001,2057922,1968011
+2002,2057979,1963747
+2003,2093535,1996415
+2004,2104661,2007391
+2005,2118982,2019367
+2006,2184237,2081318
+2007,2208071,2108162
+2008,2173389,2074305
+2009,2113856,2016809
+2010,2046935,1952451
+2011,2024052,1929538
+2012,2021434,1931407
+2013,2012954,1919227
+2014,2040701,1947375
+2015,2036161,1942336
+2016,2018183,1927692
+2017,1972885,1882615
+#"Dataset: Natality, 1995-2017"
+#”Group By: Year, Gender"
+#“Help: See http://wonder.cdc.gov/wonder/help/Natality.html for more information."
+#”Query Date: Nov 3, 2018 12:35:48 PM"
+#”Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+#”WONDER Online Database, October 2018. Accessed at http://wonder.cdc.gov/natality-current.html on Nov 3, 2018 12:35:48 PM"
+#Caveats:
+#”1. Each birth record represents one living baby."
